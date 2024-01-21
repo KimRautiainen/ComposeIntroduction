@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compose Introduction</string>
+    <string name="hello_world">Hei maailma</string>
+    <string name="goodbye_darkness">Hei hei pimeys</string>
+    <string name="enter_your_name">Kirjoita nimesi</string>
+    <string name="button_text">Klikkaa</string>
+</resources>
